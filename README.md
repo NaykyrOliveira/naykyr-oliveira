@@ -1,6 +1,9 @@
 # 👋 Oi, eu sou Naykyr Oliveira!
 ## Bem vindo ao meu perfil GitHub 👋 
-<!---
+
+Sou um estudante de CiberSegurança com foco em análise de vulnerabilidade em aplicações web, pentest e redes sem fio. Estou ansioso para aprender e crescer na área.
+
+<!---   
 NaykyrOliveira/NaykyrOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
