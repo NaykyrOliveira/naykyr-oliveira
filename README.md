@@ -3,6 +3,14 @@
 
  Eu sou um estudante de Defesa Cibernética, também tenho interesse em Segurança Ofensiva e Red Team com foco em análise de vulnerabilidade em aplicações web, pentest em aplicações web e pentest em redes sem fio.
 
+- 🌱 Atualmente estou aprendendo sobre desenvolvimento web e pentest em aplicações web
+- 👯 Estou procurando colaborar em estou procurando colaborar em projetos relacionados à segurança cibernética e estou aberto a sugestões e ideias.
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como chegar até mim: 
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
+
 <!---   
 NaykyrOliveira/NaykyrOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
