@@ -1,7 +1,8 @@
 # 👋 Oi, eu sou Naykyr Oliveira!
 ## Bem vindo ao meu perfil GitHub 👋 
 
- Eu sou um estudante de Defesa Cibernética, também tenho interesse em Segurança Ofensiva e Red Team com foco em análise de vulnerabilidade em aplicações web, pentest em aplicações web e pentest em redes sem fio.
+ Eu sou um estudante de Defesa Cibernética, também tenho interesse em Segurança Ofensiva e Red Team com foco em análise de vulnerabilidade em aplicações web, pentest em aplicações web e pentest em redes sem fio. 
+ Eu sou apaixonado por tecnologia e segurança cibernética. Além disso, tenho interesse em privacidade de dados e proteção contra ataques cibernéticos. Sinta-se à vontade para entrar em contato comigo se quiser discutir qualquer coisa relacionada à segurança cibernética ou se tiver alguma dúvida sobre meus projetos.
 
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento web e pentest em aplicações web <br>
 - 👯 Estou procurando colaborar em projetos relacionados à segurança cibernética e estou aberto a sugestões e ideias. <br>
