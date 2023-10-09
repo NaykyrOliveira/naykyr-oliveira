@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento web e pentest em aplicações web
 - 👯 Estou procurando colaborar em projetos relacionados à segurança cibernética e estou aberto a sugestões e ideias.
 - 🤔 com Estou procurando ajuda com a análise de vulnerabilidades em aplicativos móveis
-Pergunte-me sobre
+- 💬 Pergunte-me sobre
 Como proteger suas informações pessoais online
 Como manter suas contas seguras com senhas fortes e únicas
 Como usar a autenticação em dois fatores para proteger suas contas
