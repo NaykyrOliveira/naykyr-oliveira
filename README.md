@@ -15,8 +15,7 @@ Como detectar e prevenir vazamentos de dados <br>
 Como proteger sua privacidade nas redes sociais <br>
 Como se proteger contra phishing e outros ataques cibernéticos <br>
 - 📫 Como chegar até mim: <br> Meu perfil do LinkedIn ( https://www.linkedin.com/in/naykyr-oliveira/ )
-- ⚡ Curiosidade: ...
-
+- 
 <!---   
 NaykyrOliveira/NaykyrOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
