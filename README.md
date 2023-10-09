@@ -3,17 +3,17 @@
 
  Eu sou um estudante de Defesa Cibernética, também tenho interesse em Segurança Ofensiva e Red Team com foco em análise de vulnerabilidade em aplicações web, pentest em aplicações web e pentest em redes sem fio.
 
-- 🌱 Atualmente estou aprendendo sobre desenvolvimento web e pentest em aplicações web
-- 👯 Estou procurando colaborar em projetos relacionados à segurança cibernética e estou aberto a sugestões e ideias.
-- 🤔 com Estou procurando ajuda com a análise de vulnerabilidades em aplicativos móveis
-- 💬 Pergunte-me sobre
-Como proteger suas informações pessoais online
-Como manter suas contas seguras com senhas fortes e únicas
-Como usar a autenticação em dois fatores para proteger suas contas
-Como detectar e prevenir vazamentos de dados
-Como proteger sua privacidade nas redes sociais
-Como se proteger contra phishing e outros ataques cibernéticos
-- 📫 Como chegar até mim: Meu perfil do LinkedIn ( https://www.linkedin.com/in/naykyr-oliveira/ )
+- 🌱 Atualmente estou aprendendo sobre desenvolvimento web e pentest em aplicações web <br>
+- 👯 Estou procurando colaborar em projetos relacionados à segurança cibernética e estou aberto a sugestões e ideias. <br>
+- 🤔 com Estou procurando ajuda com a análise de vulnerabilidades em aplicativos móveis <br>
+- 💬 Pergunte-me sobre <br>
+Como proteger suas informações pessoais online <br>
+Como manter suas contas seguras com senhas fortes e únicas <br>
+Como usar a autenticação em dois fatores para proteger suas contas <br>
+Como detectar e prevenir vazamentos de dados <br>
+Como proteger sua privacidade nas redes sociais <br>
+Como se proteger contra phishing e outros ataques cibernéticos <br>
+- 📫 Como chegar até mim: <br> Meu perfil do LinkedIn ( https://www.linkedin.com/in/naykyr-oliveira/ )
 - ⚡ Curiosidade: ...
 
 <!---   
