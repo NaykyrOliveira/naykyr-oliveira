@@ -18,7 +18,7 @@ Como usar a autenticação em dois fatores para proteger suas contas <br>
 Como detectar e prevenir vazamentos de dados <br>
 Como proteger sua privacidade nas redes sociais <br>
 Como se proteger contra phishing e outros ataques cibernéticos <br>
-- 📫 Como chegar até mim: <br> Meu perfil do LinkedIn ( https://www.linkedin.com/in/naykyr-oliveira/ )
+- 📫 Como chegar até mim: <br> Meu perfil do <a href="https://www.linkedin.com/in/naykyr-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - 
 <!---   
 NaykyrOliveira/NaykyrOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,5 +51,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center" style="display: inline_block"><br> 
-    <a href="https://www.linkedin.com/in/naykyr-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
 </div>
