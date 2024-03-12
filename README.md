@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ## Ferramentas e Tecnologias
 
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block" style="color: white"><br>
     <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
     <img align="center"  alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
