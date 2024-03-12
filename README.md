@@ -1,8 +1,12 @@
 # 👋 Oi, eu sou Naykyr Oliveira!
 ## Bem vindo ao meu perfil GitHub 👋 
 
- <p>Eu sou um estudante de Defesa Cibernética, também tenho interesse em Segurança Ofensiva e Red Team com foco em análise de vulnerabilidade em aplicações web, pentest em aplicações web e pentest em redes sem fio. </p>
- <p>Eu sou apaixonado por tecnologia e segurança cibernética. Além disso, tenho interesse em privacidade de dados e proteção contra ataques cibernéticos. Sinta-se à vontade para entrar em contato comigo se quiser discutir qualquer coisa relacionada à segurança cibernética ou se tiver alguma dúvida sobre meus projetos.</p>
+ <p>Eu sou um estudante de Defesa Cibernética, sou apaixonado por tecnologia,
+programação e segurança cibernética. Meu foco inclui Segurança Ofensiva, pentest
+em aplicações web e pentest em redes sem fio. Além disso, tenho interesse em
+privacidade de dados e proteção contra ataques cibernéticos. Também tenho
+experiência em desenvolvimento web.
+. Sinta-se à vontade para entrar em contato comigo se quiser discutir qualquer coisa relacionada à segurança cibernética ou se tiver alguma dúvida sobre meus projetos.</p>
 
 - 🌱 Atualmente estou aprendendo sobre desenvolvimento web e pentest em aplicações web <br>
 - 👯 Estou procurando colaborar em projetos relacionados à segurança cibernética e estou aberto a sugestões e ideias. <br>
@@ -30,13 +34,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center"  alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center"  alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-    <img align="center"  alt="GitHub" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img  align="center"  alt="GitHub" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center"  alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />         
+    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+    <img align="center"  alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img align="center"  alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+    <img align="center"  alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>    
+    <img align="center"  alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center"  alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>    
+    <img align="center"  alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+    <img align="center"  alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </div>
 
 
