@@ -25,11 +25,6 @@ NaykyrOliveira/NaykyrOliveira is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-![PXL_20220924_193240185(https://user-images.githubusercontent.com/103430603/194389479-be80917b-b082-49ce-be32-4442ba9f846c.jpg)
-
-
 ## Ferramentas e Tecnologias
 
 
