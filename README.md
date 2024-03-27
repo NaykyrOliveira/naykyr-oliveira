@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-Meu nome é Naykyr, tenho uma paixão por tecnologia e sou estudante de Defesa Cibernética e desenvolvimento web estou sempre procurando aprender mais e melhorar minhas habilidades.
+Meu nome é Naykyr tenho paixão por tecnologia e sou estudante de Defesa Cibernética e desenvolvimento web estou sempre procurando aprender mais e melhorar minhas habilidades.
 
 ## 🌱 O que estou aprendendo atualmente
 
@@ -34,7 +34,7 @@ Meu nome é Naykyr, tenho uma paixão por tecnologia e sou estudante de Defesa C
 
 - Conecte-se comigo no LinkedIn.<br>
 <p>
-  <a href="https://www.linkedin.com/in/naykyr-oliveira/">
+  <a href="https://www.linkedin.com/in/naykyr-oliveira/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
