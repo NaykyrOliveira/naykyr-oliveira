@@ -1,26 +1,30 @@
-# 👋 Oi, eu sou Naykyr Oliveira!
-## Bem vindo ao meu perfil 👋 
+# Olá, mundo! 👋
 
- <p>Sou apaixonado por tecnologia! Dedico meu tempo a:
+Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão por desenvolvimento web e estou sempre procurando aprender mais e melhorar minhas habilidades.
 
-   Desenvolvimento Web: Crio websites e aplicações web com diversas tecnologias.<br> 
-    <div>
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)   
-    </div>
+## 🌱 O que estou aprendendo atualmente
 
-Defesa Cibernética: Protejo sistemas e dados contra ataques cibernéticos.</p>
+- Aprofundando meus conhecimentos em Defesa Cibernética.
+- Explorando novas tecnologias e ferramentas de desenvolvimento web.
 
-- 📫 Como chegar até mim: <br> Meu perfil <br>
-<a href="https://www.linkedin.com/in/naykyr-oliveira/" target="_blank"><img align="center"  alt="LinkedIn" height="28" width="85" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!---   
-NaykyrOliveira/NaykyrOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tecnologias
 
-## Ferramentas e Tecnologias
+### Front-end
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)]
 
+### Back-end
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
+
+### Ferramentas e Tecnologias Adicionais
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
+
+## 📫 Como entrar em contato comigo
+
+- Conecte-se comigo no LinkedIn.<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
 
 
 
@@ -28,9 +32,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center" style="display: inline_block"><br>
     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaykyrOliveira&layout=compact">
 </div>
-
-
-
 
 <div align="center" style="display: inline_block"><br> 
     
