@@ -20,7 +20,7 @@ Meu nome é Naykyr tenho paixão por tecnologia e sou estudante de Defesa Cibern
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-- Aprofundando meus conhecimentos em Defesa Cibernética.
+## Aprofundando meus conhecimentos em Defesa Cibernética.
   
 ## 🛠️ Linguagens
 
