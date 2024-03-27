@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão por desenvolvimento web e estou sempre procurando aprender mais e melhorar minhas habilidades.
+Meu nome é Naykyr, tenho uma paixão por tecnologia e sou estudante de Defesa Cibernética e desenvolvimento web estou sempre procurando aprender mais e melhorar minhas habilidades.
 
 ## 🌱 O que estou aprendendo atualmente
 
@@ -34,7 +34,7 @@ Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão
 
 - Conecte-se comigo no LinkedIn.<br>
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/naykyr-oliveira/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
