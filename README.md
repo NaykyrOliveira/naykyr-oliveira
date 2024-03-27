@@ -3,8 +3,11 @@
 
  <p>Sou apaixonado por tecnologia! Dedico meu tempo a:
 
-Desenvolvimento Web: Crio websites e aplicações web com diversas tecnologias.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
+   Desenvolvimento Web: Crio websites e aplicações web com diversas tecnologias.
+    <div align="center" style="display: inline_block"><br> 
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)   
+    </div>
+
 Defesa Cibernética: Protejo sistemas e dados contra ataques cibernéticos.</p>
 
 - 📫 Como chegar até mim: <br> Meu perfil <br>
