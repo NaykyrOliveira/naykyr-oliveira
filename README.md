@@ -24,11 +24,11 @@ Meu nome é Naykyr tenho paixão por tecnologia e sou estudante de Defesa Cibern
   
 ## 🛠️ Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,py,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,bash,powershell)](https://skillicons.dev)
 
 ## 💻 Sistemas
 
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,windows,linux)](https://skillicons.dev)
 
 ## 📫 Como entrar em contato comigo
 
