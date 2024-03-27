@@ -33,7 +33,7 @@ Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão
 ## 📫 Como entrar em contato comigo
 
 - Conecte-se comigo no LinkedIn.<br>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
