@@ -22,9 +22,13 @@ Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão
 
 - Aprofundando meus conhecimentos em Defesa Cibernética.
   
-## 🛠️ Tecnologias
+## 🛠️ Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,kali,linux,py,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,py,powershell)](https://skillicons.dev)
+
+## 🛠️ Sistemas
+
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows)](https://skillicons.dev)
 
 ## 📫 Como entrar em contato comigo
 
