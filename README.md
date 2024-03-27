@@ -3,8 +3,8 @@
 
  <p>Sou apaixonado por tecnologia! Dedico meu tempo a:
 
-   Desenvolvimento Web: Crio websites e aplicações web com diversas tecnologias.
-    <div align="center" style="display: inline_block"><br> 
+   Desenvolvimento Web: Crio websites e aplicações web com diversas tecnologias.<br> 
+    <div>
     [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)   
     </div>
 
