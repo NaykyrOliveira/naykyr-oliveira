@@ -43,5 +43,4 @@ Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão
 </div>
 
 <div align="center" style="display: inline_block"><br> 
-    
 </div>
