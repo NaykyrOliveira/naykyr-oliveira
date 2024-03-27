@@ -4,31 +4,36 @@ Meu nome é [seu nome] e sou estudante de Defesa Cibernética. Tenho uma paixão
 
 ## 🌱 O que estou aprendendo atualmente
 
-- Aprofundando meus conhecimentos em Defesa Cibernética.
 - Explorando novas tecnologias e ferramentas de desenvolvimento web.
 
 ## 🛠️ Tecnologias
 
 ### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
 
 ### Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,sqlite,java)](https://skillicons.dev)
 
 ### Ferramentas e Tecnologias Adicionais
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+- Aprofundando meus conhecimentos em Defesa Cibernética.
+  
+## 🛠️ Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=bash,c,kali,linux,py,windows)](https://skillicons.dev)
 
 ## 📫 Como entrar em contato comigo
 
 - Conecte-se comigo no LinkedIn.<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue)](https://skillicons.dev)
-
-
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 <div align="center" style="display: inline_block"><br>
     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaykyrOliveira&layout=compact">
 </div>
