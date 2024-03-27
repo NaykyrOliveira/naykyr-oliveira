@@ -2,7 +2,7 @@
 
 Meu nome é Naykyr tenho paixão por tecnologia e sou estudante de Defesa Cibernética e desenvolvimento web estou sempre procurando aprender mais e melhorar minhas habilidades.
 
-## 🌱 O que estou aprendendo atualmente
+## 📚 O que estou aprendendo atualmente
 
 - Explorando novas tecnologias e ferramentas de desenvolvimento web.
 
@@ -20,13 +20,13 @@ Meu nome é Naykyr tenho paixão por tecnologia e sou estudante de Defesa Cibern
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-## Aprofundando meus conhecimentos em Defesa Cibernética.
+## Aprofundando meus conhecimentos em Defesa Cibernética 🛡️.
   
 ## 🛠️ Linguagens
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,py,powershell)](https://skillicons.dev)
 
-## 🛠️ Sistemas
+## 💻 Sistemas
 
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,windows)](https://skillicons.dev)
 
@@ -34,13 +34,10 @@ Meu nome é Naykyr tenho paixão por tecnologia e sou estudante de Defesa Cibern
 
 - Conecte-se comigo no LinkedIn.<br>
 <p>
-  <a href="https://www.linkedin.com/in/naykyr-oliveira/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a target="_blank" href="https://www.linkedin.com/in/naykyr-oliveira/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 <div align="center" style="display: inline_block"><br>
     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaykyrOliveira&layout=compact">
-</div>
-
-<div align="center" style="display: inline_block"><br> 
 </div>
